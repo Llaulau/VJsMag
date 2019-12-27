@@ -1,0 +1,330 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> 
+<html class="no-js" <?php language_attributes(); ?> > 
+    <!--<![endif]-->
+    <head>
+        <meta charset="<?php bloginfo('charset'); ?>">
+        <title><?php wp_title('|', true, 'right'); bloginfo('name');?></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <!-- Favicon and Feed -->
+        <link rel="shortcut icon" type="image/png" href="<?php echo jwOpt::get_option('custom_favicon', get_template_directory_uri() . '/favicon.png') ?>">
+        <link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> Feed" href="<?php echo home_url(); ?>/feed/">
+        <!-- Enable Startup Image for iOS Home Screen Web App -->
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+
+        <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
+        
+        <?php
+        //GOOGLE fonts
+        $fonts = array("Oswald","Droid Sans","Arial","Helvetica");
+        
+        $g_font = jwOpt::get_option('body_font', 'Oswald');
+        if (!in_array($g_font, $fonts)) {
+          echo "<link href='http://fonts.googleapis.com/css?family=" . $g_font . "' rel='stylesheet' type='text/css'>";
+        }
+        
+        $g_font = jwOpt::get_option('small_font', 'Droid Sans');        
+        if(is_array($g_font) && isset($g_font['face'])) {
+            if (!in_array($g_font['face'], $fonts)) {
+               echo "<link href='http://fonts.googleapis.com/css?family=" . $g_font['face'] . "' rel='stylesheet' type='text/css'>";
+            }             
+        }
+        
+        
+       echo jwUtils::get_social_meta();    
+
+       wp_head(); ?>  
+        
+        
+        <?php if (jwOpt::is(jwOpt::get_option('custom_js_header'))) { ?>
+                                 
+                     <?php echo jwOpt::get_option('custom_js_header'); ?>    
+                
+        <?php }  ?>
+        
+    </head>
+    
+    <?php
+        $category_color = "";
+        $widget_color   = "widget_color_template";
+        if ( !is_home() ) {
+            $cat = $wp_query->get_queried_object();
+           
+            if(isset($cat->term_id)){
+              $widget_color = jwStyle::get_widget_color( $cat->term_id );  
+            }
+            
+        }
+        if(is_single()){
+            $cat_id = get_the_category();
+            if(sizeof($cat_id)>0){
+                $cat_id = $cat_id[0]->cat_ID;
+            }
+            $category_color = jwStyle::get_category_color( $cat_id );
+        }     
+        if(function_exists('is_product') &&  is_product()){
+            $terms = get_the_terms($post->ID, 'product_cat'); 
+            if(isset($terms) && is_array($terms) && sizeof($terms)>0){
+               $terms = array_shift(array_values($terms));
+               $term_id = ($terms->term_id );
+            }
+            $category_color = jwStyle::get_category_color( $term_id );
+        }  
+    ?>
+<?php $rtl = (jwOpt::get_option('site_rtl','0')=='1')?'rtl':''; ?>
+    <body <?php body_class($widget_color." ".$category_color. " ".$rtl);  ?>   itemtype="http://schema.org/WebPage" itemscope>
+
+        <?php jwLayout::sidebar_layout();   ?>
+        <!-- Start the main container -->
+        <div id="container" class="container" role="document">
+
+            <!-- Start the template box -->
+            <div id="template-box">
+
+                <!-- Row for blog navigation -->
+                <div class="row" style="position: relative">
+                    <?php
+                    if (jwOpt::get_option('skyscrapper_left_show', '0')=='1') {
+                        get_template_part('header', 'banner_skyleft');
+                    }
+                    ?>
+
+                    <?php
+                    if (jwOpt::get_option('skyscrapper_right_show', '0')=='1') {
+                        get_template_part('header', 'banner_skyright');
+                    }
+                    ?>
+
+                    <?php
+                    if (jwOpt::get_option('totop_show', '0')=='1') {
+                        get_template_part('header', 'to_top');
+                    }
+                    ?>
+
+                    <header class="twelve columns" role="banner" id="header">
+                        
+                        <?php
+                        if ( jwOpt::get_option('leader_banner_show', '0')=='1' ) {
+                            get_template_part('leader', 'banner_leader');
+                        }
+                        ?>
+                         <div class="clear"></div>
+
+                        
+                         <?php
+                         if(jwUtils::woocommerce_activate() && (jwOpt::get_option('woo_main_cart','ecomm') == 'all_web')){
+                            get_template_part('header', 'top_cart');
+                         }elseif(jwUtils::woocommerce_activate() && (jwOpt::get_option('woo_main_cart','ecomm') == 'ecomm' && function_exists('is_woocommerce') && is_woocommerce())){
+                            get_template_part('header', 'top_cart');
+                         }elseif ( jwOpt::get_option('header_banner_show', '0')=='1' ){
+                            get_template_part('header', 'banner_header');
+                         }
+                        ?>
+                        
+                        
+                        
+                        <div class="reverie-header">
+                            <?php
+                            $template_logo = jwOpt::get_option('custom_logo', '');
+                            ?>
+                            <h1>
+                                <a href="<?php echo home_url(); ?>" title="<?php bloginfo('name'); ?>">
+                                    <img class="template-logo" src="<?php echo $template_logo; ?>">
+                                </a>
+                            </h1>                           
+                        </div>
+                       
+                        <div class="clear"></div>
+
+                        <?php if (jwOpt::get_option('menu_type', 'menu-1') == 'menu-1') { ?>
+                            <nav class="top-bar top-bar-jw" role="navigation">
+                                <section>
+                                    <?php
+                                    $a = wp_nav_menu(array(
+                                        'theme_location' => 'primary_navigation',
+                                        'container' => 'false',
+                                        'menu_class' => 'top-nav',
+                                        'menu_id' => 'jw',
+                                        'echo' => false,
+                                        'before' => '',
+                                        'after' => '',
+                                        'link_before' => '',
+                                        'link_after' => '',
+                                        'depth' => 0,
+                                        'items_wrap' => '<ul class="">%3$s</ul>',
+                                        'walker' => new jwMenu())
+                                    );
+                                    ?>
+                                    <?php echo $a ?>
+                                    <div class="clear"></div>
+                                </section>
+                            </nav>
+
+                            <nav class="top-bar mobile-menu mobile-menu-visble expanded" role="navigation">
+
+
+                                <section>
+                                    <?php
+                                    wp_nav_menu(array(
+                                        'theme_location' => 'primary_navigation',
+                                        'container' => 'false',
+                                        'menu_class' => 'top-nav',
+                                        'menu_id' => 'mobile',
+                                        'echo' => true,
+                                        'before' => '',
+                                        'after' => '',
+                                        'link_before' => '',
+                                        'link_after' => '',
+                                        'depth' => 0,
+                                        'items_wrap' => '<ul class="left">%3$s</ul>',
+                                        'walker' => new jwMenuMobile())
+                                    );
+                                    ?>
+                                </section>
+                            </nav>
+
+                            <nav class="mobile-menu-selectbox" role="navigation">
+                                <?php
+                                wp_nav_menu(array(
+                                    'theme_location' => 'primary_navigation', // your theme location here
+                                    'walker' => new jwMenuSelecetBox(),
+                                    'items_wrap' => '<select class="mobile-selectbox"><option>'.__('Go to ...','jawtemplates').'</option>%3$s</select>',
+                                ));
+                                ?>
+                            </nav>
+                        <?php } ?>
+                    </header>
+                </div>
+
+                <!-- Row for main content area -->
+                <div id="main" class="row">
+                    <div class="featured-area">
+                        <?php if (is_home() || is_front_page() || jwOpt::get_option('blog_featured_allsite','0') == '1') { ?> 
+                            <div id="featured-right">
+                                <?php dynamic_sidebar('featured_right'); ?>
+                            </div>  
+                            <div id="slider">    
+                                <?php                       
+                                if (jwOpt::get_option('blog_slider','1') == '1') {
+                                    $jwSlider = new jwSlider();
+                                    $jwSlider->getSlides();
+                                }
+                                ?>   
+                            </div>
+                        
+                            <div class="clear"></div>
+                            
+                            <?php 
+                            if (is_home() || is_front_page()){      
+                                  jwRender::get_bar(jwOpt::get_option('ribbon_show', '1'), '0', jwOpt::get_option('ribbon_sort', '1'), jwOpt::get_option('ribbon_search', '1'));                  
+                            }
+                        } else {
+                            if(function_exists('is_shop') && is_shop()){
+                                 $meta = get_post_meta(get_option('woocommerce_shop_page_id')); 
+                                 if (isset($meta['_use_breadcrumbs'][0])) {
+                                      $show_bar = $meta['_use_breadcrumbs'][0];
+                                      jwRender::get_bar($show_bar, '0', '1', $meta['_page_custom_sheet_search'][0]);
+                                 }    
+                                 
+                            }else if(function_exists('is_product')  && is_product()){
+                                 if (jwOpt::get_option('woo_nav_bar','1') == '1') {
+                                      jwRender::get_bar(jwOpt::get_option('woo_nav_bar','1'), '1', '0', jwOpt::get_option('ribbon_search', '0'));
+                                 }    
+                                 
+                            }else if (is_page()) {
+                                
+                                $meta = get_post_meta(get_the_ID());
+                                $br = '1';
+                                $so = '0';
+                                if(isset($meta['_page_custom_sheet_source'][0]) && get_page_template_slug() == 'page-blog.php'){
+                                    if ($meta['_page_custom_sheet_source'][0] == "breadcrumb") {  
+                                        $br = '1';
+                                        $so = '0';
+                                    }else if ($meta['_page_custom_sheet_source'][0] == "sorting") {  
+                                        $so = '1';
+                                        $br = '0';
+                                    }
+                                }
+
+                                if (isset($meta['_use_breadcrumbs'])) {
+                                    jwRender::get_bar($meta['_use_breadcrumbs'][0], $br, $so, $meta['_page_custom_sheet_search'][0] );
+                                }
+                               
+                            } else {
+                                $show_bar = '0';
+                                $class = "";
+                                if (is_category() || (function_exists('is_product_category') && is_product_category())) { 
+                                    if ( is_single() ) {
+                                            $meta = get_post_meta(get_the_ID()); 
+                                            if (isset($meta['post_custom_sheet']) && $meta['post_custom_sheet'][0] != '-1') {
+                                                $show_bar = $meta['post_custom_sheet'][0];
+                                            }else if(jwOpt::get_option('post_nav_bar', '1') == '1'){
+                                                $show_bar = jwOpt::get_option('post_nav_bar', '1');
+                                            }
+                                            $category = get_the_category(get_the_ID());
+                                            if(sizeof($category)){
+                                                $cat_bg_color = jwOpt::get_option('cat_bg_color', 'template', 'category', $category[0]->cat_ID);
+                                                if ($cat_bg_color == "custom") {
+                                                    $class = 'breadcrumbs-bar-' . $cat_bg_color . '-' . $category[0]->cat_ID;
+                                                } else {
+                                                    $class = 'breadcrumbs-bar-' . $cat_bg_color;
+                                                }       
+                                            }
+                                        } else if ( is_archive() && !is_search() ) {
+                                            $class = "";
+                                            if (isset($cat->term_id)) {
+                                                $cat_bg_color = jwOpt::get_option('cat_bg_color', 'template', 'category', $cat->term_id);
+                                                if ($cat_bg_color == "custom") {
+                                                    $class = 'breadcrumbs-bar-' . $cat_bg_color . '-' . $cat->term_id;
+                                                } else {
+                                                    $class = 'breadcrumbs-bar-' . $cat_bg_color;
+                                                }
+                                            }
+                                        
+                                            $cat_custom_sheet = jwOpt::get_option('cat_custom_sheet', '0', 'category', $cat->term_id);
+                                            $show_bar = $cat_custom_sheet;
+                                            
+                                            
+                                            switch(jwOpt::get_option('cat_custom_sheet_source', '0', 'category', $cat->term_id)){
+                                                case 'sorting': $br = '0';
+                                                                $so = '1';
+                                                                break;
+                                                case 'breadcrumb':  $br = '1';
+                                                                    $so = '0';
+                                                                    break;
+                                                case 'nothing':  $br = '0';
+                                                                 $so = '0';
+                                                                 break;  
+                                            }
+
+                                        }
+                                    }else{
+                                         if ( is_single() ) {
+                                             
+                                            $meta = get_post_meta(get_the_ID()); 
+                                            if (isset($meta['post_custom_sheet']) && $meta['post_custom_sheet'][0] != '-1') {
+                                                $show_bar = $meta['post_custom_sheet'][0];
+                                            }else if(jwOpt::get_option('post_nav_bar', '1') == '1'){
+                                                $show_bar = jwOpt::get_option('post_nav_bar', '1');
+                                            }   
+                                        }
+                                        $br = '1';
+                                        $so = '0';
+                                    }
+                                    if((!function_exists('is_shop') || (function_exists('is_shop') && !is_shop())) && (!function_exists('is_product_category') || (function_exists('is_product_category') && !is_product_category())) && (is_search() || (is_archive() && !is_category()))){
+                                        jwRender::get_bar(jwOpt::get_option('ribbon_show', '0'), '0', jwOpt::get_option('ribbon_sort', '0'), jwOpt::get_option('ribbon_search', '0'));
+                                    }
+                                    
+                                   jwRender::get_bar($show_bar, $br, $so, jwOpt::get_option('ribbon_search', '0') ,$class);
+                            }
+                         }
+                      
+                        ?>
+                    </div>
+                    <div class="clear"></div>

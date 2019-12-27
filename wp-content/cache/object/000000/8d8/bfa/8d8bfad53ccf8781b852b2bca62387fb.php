@@ -1,0 +1,1 @@
+rì™T<?php exit; ?>a:1:{s:7:"content";s:292:"a:10:{s:6:"script";s:8:"swipebox";s:8:"selector";s:8:"lightbox";s:9:"galleries";b:1;s:6:"videos";b:1;s:11:"image_links";b:1;s:17:"images_as_gallery";b:1;s:20:"enable_custom_events";b:0;s:13:"custom_events";s:12:"ajaxComplete";s:13:"loading_place";s:6:"header";s:19:"deactivation_delete";b:0;}";}

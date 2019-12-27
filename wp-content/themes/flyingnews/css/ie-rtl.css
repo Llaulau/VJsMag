@@ -1,0 +1,9 @@
+
+
+
+/*content*/
+#elements_iso{left: -30px ; float: none !important;}
+.top-bar ul > li {border-left: 1px solid rgb(255, 255, 255) !important; border-left: none;}
+.top-bar-jw ul > li .dropdown li{border-left:0 !important;}
+.menu-box .menu-info{border-left: 1px solid rgb(255, 255, 255) !important; }
+.menu-box .menu-info img{padding-left: 18px;}

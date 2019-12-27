@@ -1,0 +1,931 @@
+<!doctype html><!--[if lt IE 7]><html
+class="no-js ie6 oldie" lang="en"> <![endif]--> <!--[if IE 7]><html
+class="no-js ie7 oldie" lang="en"> <![endif]--> <!--[if IE 8]><html
+class="no-js ie8 oldie" lang="en"> <![endif]--><!--[if gt IE 8]><!--><html
+class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" > <!--<![endif]--><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link
+rel="shortcut icon" type="image/png" href="http://www.vjsmag.com/wp-content/uploads/2014/04/vjsmagfavicon.png"><link
+rel="alternate" type="application/rss+xml" title="VJs Magazine Feed" href="http://www.vjsmag.com/feed/"><meta
+name="apple-mobile-web-app-capable" content="yes" /><link
+href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'><link
+href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'><meta
+property='fb:app_id' content='481940235196972'/><meta
+property="og:image" content="http://www.vjsmag.com/wp-content/themes/flyingnews/images/logo/none.png"/><meta
+property="og:type" content="website"/><meta
+property="og:url" content="http://www.vjsmag.com"/><title>VJs Magazine - Audio Visual Performers Source</title><link
+rel="stylesheet" href="http://www.vjsmag.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.7.1" type="text/css" media="all" /><meta
+name="description" content="VJs Magazine is an international open-sharing web magazine which deals with audio visual art forms and creative technologies. It was launched in April 2013 by founder Guillaume J. Lauzier. It is accessible to anyone who wants to share, is passionate about or just has a general interest in live audiovisual performances and creative technology. It offers daily news about upcoming and past projects, a section for learning with recommended books and courses, technical reviews and tutorials, interviews with top artists. Check upcoming events in your area with a interactive calendar, anyone is welcome to share through the different forms available on the Submit page."/><link
+rel="canonical" href="http://www.vjsmag.com" /><link
+rel="next" href="http://www.vjsmag.com/page/2/" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="website" /><meta
+property="og:title" content="VJs Magazine - Audio Visual Performers Source" /><meta
+property="og:description" content="VJs Magazine is an international open-sharing web magazine which deals with audio visual art forms and creative technologies. It was launched in April 2013 by founder Guillaume J. Lauzier. It is accessible to anyone who wants to share, is passionate about or just has a general interest in live audiovisual performances and creative technology. It offers daily news about upcoming and past projects, a section for learning with recommended books and courses, technical reviews and tutorials, interviews with top artists. Check upcoming events in your area with a interactive calendar, anyone is welcome to share through the different forms available on the Submit page." /><meta
+property="og:url" content="http://www.vjsmag.com" /><meta
+property="og:site_name" content="VJs Magazine" /><script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"http://www.vjsmag.com/","potentialAction":{"@type":"SearchAction","target":"http://www.vjsmag.com/?s={search_term}","query-input":"required name=search_term"}}</script><link
+rel="alternate" type="application/rss+xml" title="VJs Magazine &raquo; Feed" href="http://www.vjsmag.com/feed/" /><link
+rel="alternate" type="application/rss+xml" title="VJs Magazine &raquo; Comments Feed" href="http://www.vjsmag.com/comments/feed/" /><link
+rel="alternate" type="text/calendar" title="VJs Magazine &raquo; iCal Feed" href="http://www.vjsmag.com/events/?ical=1" /><link
+rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://www.vjsmag.com/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.2.7' type='text/css' media='all' /><link
+rel='stylesheet' id='cms-navigation-style-base-css'  href='http://www.vjsmag.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.2.7' type='text/css' media='screen' /><link
+rel='stylesheet' id='cms-navigation-style-css'  href='http://www.vjsmag.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.2.7' type='text/css' media='screen' /><link
+rel='stylesheet' id='foundation.min-css'  href='http://www.vjsmag.com/wp-content/themes/flyingnews/css/foundation.min.css?ver=3.9.3' type='text/css' media='all' /><link
+rel='stylesheet' id='style-css'  href='http://www.vjsmag.com/wp-content/themes/flyingnews/style.css?ver=3.9.3' type='text/css' media='all' /><link
+rel='stylesheet' id='template-css'  href='http://www.vjsmag.com/wp-content/themes/flyingnews/css/template.css?ver=3.9.3' type='text/css' media='all' /><link
+rel='stylesheet' id='custom-styles-css'  href='http://www.vjsmag.com/wp-content/themes/flyingnews/css/custom-styles.css?ver=3.9.3' type='text/css' media='all' /><link
+rel='stylesheet' id='responsive-lightbox-swipebox-front-css'  href='http://www.vjsmag.com/wp-content/plugins/responsive-lightbox/assets/swipebox/source/swipebox.css?ver=3.9.3' type='text/css' media='all' /><link
+rel='stylesheet' id='round_social_media_buttons_styles-css'  href='http://www.vjsmag.com/wp-content/plugins/round-social-media-buttons/round_social_media_buttons.css?ver=3.9.3' type='text/css' media='all' /><link
+rel='stylesheet' id='tribe-events-calendar-style-css'  href='http://www.vjsmag.com/wp-content/plugins/the-events-calendar/resources/tribe-events-full.min.css?ver=3.9' type='text/css' media='all' /><link
+rel='stylesheet' id='tribe-events-calendar-mobile-style-css'  href='http://www.vjsmag.com/wp-content/plugins/the-events-calendar/resources/tribe-events-full-mobile.min.css?ver=3.9' type='text/css' media='only screen and (max-width: 768px)' /><link
+rel='stylesheet' id='woocommerce-layout-css'  href='//www.vjsmag.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.10' type='text/css' media='all' /><link
+rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.vjsmag.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.10' type='text/css' media='only screen and (max-width: 768px)' /><link
+rel='stylesheet' id='woocommerce-general-css'  href='//www.vjsmag.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.2.10' type='text/css' media='all' /><link
+rel='stylesheet' id='wprssmi_template_styles-css'  href='http://www.vjsmag.com/wp-content/plugins/wp-rss-multi-importer/templates/templates.css?ver=3.9.3' type='text/css' media='all' /> <script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');__gaTracker('create','UA-35910281-3','auto');__gaTracker('set','forceSSL',true);__gaTracker('require','displayfeatures');__gaTracker('send','pageview');</script><script type='text/javascript' src='http://www.vjsmag.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script><script type='text/javascript' src='http://www.vjsmag.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script><script type='text/javascript' src='http://www.vjsmag.com/wp-content/plugins/responsive-lightbox/assets/swipebox/source/jquery.swipebox.min.js?ver=3.9.3'></script><script type='text/javascript'>var rlArgs={"script":"swipebox","selector":"lightbox","custom_events":"","activeGalleries":"1","animation":"1","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080"};</script><script type='text/javascript' src='http://www.vjsmag.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=3.9.3'></script><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.vjsmag.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.vjsmag.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 3.9.3" /><meta
+name="generator" content="WooCommerce 2.2.10" /><script type="text/javascript">var icl_lang='en';var icl_home='http://www.vjsmag.com/';</script><script type="text/javascript" src="http://www.vjsmag.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script><meta
+name="generator" content="WPML ver:2.7.1 stt:1,4,3,27,28,47,2;0" /><link
+rel="alternate" hreflang="fr-FR" href="http://www.vjsmag.com/fr/" /><link
+rel="alternate" hreflang="de-DE" href="http://www.vjsmag.com/de/" /><link
+rel="alternate" hreflang="it-IT" href="http://www.vjsmag.com/it/" /><link
+rel="alternate" hreflang="ja" href="http://www.vjsmag.com/ja/" /><link
+rel="alternate" hreflang="ru-RU" href="http://www.vjsmag.com/ru/" /><link
+rel="alternate" hreflang="es-ES" href="http://www.vjsmag.com/es/" /> <!--[if lt IE 9]><link
+rel="stylesheet" href="http://www.vjsmag.com/wp-content/themes/flyingnews/css/ie.css"><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><style>@media handheld, only screen and (max-width: 959px){#totop{display:none !important}}</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important}</style></head><body
+class="home blog widget_color_template  tribe-theme-flyingnews page-template-index-php"   itemtype="http://schema.org/WebPage" itemscope><div
+id="container" class="container" role="document"><div
+id="template-box"><div
+class="row" style="position: relative"><div
+id="totop" class="totop-button"><div
+class="totop-arrow-up"></div></div><header
+class="twelve columns" role="banner" id="header"><div
+class="clear"></div><div
+class="reverie-header-banner"> <a
+href="http://limeartgroup.com/shop"  target="_blank"> <img
+src="http://www.vjsmag.com/wp-content/uploads/2014/11/vjs-magazine-lime-group-christmas-sale-header.jpg"> </a></div><div
+class="reverie-header"><h1> <a
+href="http://www.vjsmag.com" title="VJs Magazine"> <img
+class="template-logo" src="http://www.vjsmag.com/wp-content/uploads/2014/05/vjsmaglogo.jpg"> </a></h1></div><div
+class="clear"></div><nav
+class="top-bar top-bar-jw" role="navigation"> <section><ul
+class=""><li
+id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7 no-dropdown" ><a
+href="http://www.vjsmag.com" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com', 'Home');" >Home</a></li><li
+id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12 has-dropdown template" aria-haspopup="true" ><a
+href="http://www.vjsmag.com/news/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/', 'News');" >News</a><div
+class="submenu-content dropdown template"><div
+class="menu-box"><div
+class="sub-menu"><ul
+class="dropdown"><li
+id="menu-item-1158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1158 no-dropdown" ><a
+href="http://www.vjsmag.com/news/animated/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/animated/', 'Animated');" >Animated</a></li><li
+id="menu-item-1159" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1159 no-dropdown" ><a
+href="http://www.vjsmag.com/news/av-space/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/av-space/', 'AV Space');" >AV Space</a></li><li
+id="menu-item-66" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66 no-dropdown" ><a
+href="http://www.vjsmag.com/news/festivals/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/festivals/', 'Festivals');" >Festivals</a></li><li
+id="menu-item-67" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67 no-dropdown" ><a
+href="http://www.vjsmag.com/news/films/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/films/', 'Films');" >Films</a></li><li
+id="menu-item-62" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62 no-dropdown" ><a
+href="http://www.vjsmag.com/news/interviews/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/interviews/', 'Interviews');" >Interviews</a></li><li
+id="menu-item-64" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64 no-dropdown" ><a
+href="http://www.vjsmag.com/news/music/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/music/', 'Music');" >Music</a></li><li
+id="menu-item-65" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65 no-dropdown" ><a
+href="http://www.vjsmag.com/news/product-release/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/product-release/', 'Product Release');" >Product Release</a></li><li
+id="menu-item-71" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71 no-dropdown" ><a
+href="http://www.vjsmag.com/news/performances/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/performances/', 'Performances');" >Performances</a></li></ul></div><div
+class="sub-sub-menu"></div></div><div
+style="clear: both"></div></div></li><li
+id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-42 has-dropdown template" aria-haspopup="true" ><a
+href="http://www.vjsmag.com/reviews/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/', 'Reviews');" >Reviews</a><div
+class="submenu-content dropdown template"><div
+class="menu-box"><div
+class="sub-menu"><ul
+class="dropdown"><li
+id="menu-item-190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-190 no-dropdown" ><a
+href="http://www.vjsmag.com/reviews/applications/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/applications/', 'Applications');" >Applications</a></li><li
+id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43 no-dropdown" ><a
+href="http://www.vjsmag.com/reviews/audio-reviews/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/audio-reviews/', 'Audio');" >Audio</a></li><li
+id="menu-item-582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-582 no-dropdown" ><a
+href="http://www.vjsmag.com/reviews/controllers/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/controllers/', 'Controllers');" >Controllers</a></li><li
+id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57 no-dropdown" ><a
+href="http://www.vjsmag.com/reviews/electronics/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/electronics/', 'Electronics');" >Electronics</a></li><li
+id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44 no-dropdown" ><a
+href="http://www.vjsmag.com/reviews/lighting/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/lighting/', 'Lighting');" >Lighting</a></li><li
+id="menu-item-60" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60 no-dropdown" ><a
+href="http://www.vjsmag.com/reviews/projection/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/projection/', 'Projection');" >Projection</a></li><li
+id="menu-item-61" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61 no-dropdown" ><a
+href="http://www.vjsmag.com/reviews/video/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/video/', 'Video');" >Video</a></li></ul></div><div
+class="sub-sub-menu"></div></div><div
+style="clear: both"></div></div></li><li
+id="menu-item-116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-116 has-dropdown template" aria-haspopup="true" ><a
+href="http://www.vjsmag.com/learning/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/', 'Learning');" >Learning</a><div
+class="submenu-content dropdown template"><div
+class="menu-box"><div
+class="sub-menu"><ul
+class="dropdown"><li
+id="menu-item-1612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1612 no-dropdown" ><a
+href="http://www.vjsmag.com/learning/books/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/books/', 'Books');" >Books</a></li><li
+id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63 no-dropdown" ><a
+href="http://www.vjsmag.com/learning/community/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/community/', 'Community');" >Community</a></li><li
+id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-117 no-dropdown" ><a
+href="http://www.vjsmag.com/learning/education/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/education/', 'Education');" >Education</a></li><li
+id="menu-item-120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120 no-dropdown" ><a
+href="http://www.vjsmag.com/learning/freeware/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/freeware/', 'Freeware');" >Freeware</a></li><li
+id="menu-item-581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-581 no-dropdown" ><a
+href="http://www.vjsmag.com/learning/open-source-code/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/open-source-code/', 'Open Source');" >Open Source</a></li><li
+id="menu-item-118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-118 no-dropdown" ><a
+href="http://www.vjsmag.com/learning/tutorials/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/tutorials/', 'Tutorials');" >Tutorials</a></li><li
+id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230 no-dropdown" ><a
+href="http://www.vjsmag.com/tag/workshops/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/workshops/', 'Workshops');" >Workshops</a></li></ul></div><div
+class="sub-sub-menu"></div></div><div
+style="clear: both"></div></div></li><li
+id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20 has-dropdown" aria-haspopup="true" ><a
+href="http://www.vjsmag.com/events/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/events/', 'Events');" >Events</a><div
+class="submenu-content dropdown template"><div
+class="menu-box"><div
+class="sub-menu"><ul
+class="dropdown"><li
+id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56 no-dropdown" ><a
+href="http://www.vjsmag.com/events/month/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/events/month/', 'Calendar');" >Calendar</a></li><li
+id="menu-item-1142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1142 no-dropdown" ><a
+href="http://www.vjsmag.com/tag/animation-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/animation-festival/', 'Animation Festival');" >Animation Festival</a></li><li
+id="menu-item-2658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2658 no-dropdown" ><a
+href="http://www.vjsmag.com/tag/audio-visual-art-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/audio-visual-art-festival/', 'AV Art Festival');" >AV Art Festival</a></li><li
+id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-229 no-dropdown" ><a
+href="http://www.vjsmag.com/tag/film-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/film-festival/', 'Film Festival');" >Film Festival</a></li><li
+id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228 no-dropdown" ><a
+href="http://www.vjsmag.com/tag/music-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/music-festival/', 'Music Festival');" >Music Festival</a></li><li
+id="menu-item-233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233 no-dropdown" ><a
+href="http://www.vjsmag.com/tag/new-media-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/new-media-festival/', 'New Media Festival');" >New Media Festival</a></li></ul></div><div
+class="sub-sub-menu"></div></div><div
+style="clear: both"></div></div></li><li
+id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35 has-dropdown template" aria-haspopup="true" ><a
+href="http://www.vjsmag.com/shop/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop/', 'Shop');" >Shop</a><div
+class="submenu-content dropdown "><div
+class="menu-box"><div
+class="sub-menu"><ul
+class="dropdown"><li
+id="menu-item-3942" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3942 no-dropdown" ><a
+href="http://www.vjsmag.com/shop-category/ad-spaces/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/ad-spaces/', 'Ad Spaces');" >Ad Spaces</a></li><li
+id="menu-item-1481" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1481 no-dropdown" ><a
+href="http://www.vjsmag.com/shop-category/android-app/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/android-app/', 'Android App');" >Android App</a></li><li
+id="menu-item-215" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-215 no-dropdown" ><a
+href="http://www.vjsmag.com/shop-category/controllers/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/controllers/', 'Controllers');" >Controllers</a></li><li
+id="menu-item-192" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-192 no-dropdown" ><a
+href="http://www.vjsmag.com/shop-category/software/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/software/', 'Software');" >Software</a></li><li
+id="menu-item-790" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-790 no-dropdown" ><a
+href="http://www.vjsmag.com/shop-category/iphone-app/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/iphone-app/', 'iPhone App');" >iPhone App</a></li><li
+id="menu-item-791" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-791 no-dropdown" ><a
+href="http://www.vjsmag.com/shop-category/ipad-app/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/ipad-app/', 'iPad App');" >iPad App</a></li><li
+id="menu-item-792" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-792 no-dropdown" ><a
+href="http://www.vjsmag.com/shop-category/mac-app/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/mac-app/', 'Mac App');" >Mac App</a></li><li
+id="menu-item-3796" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3796 no-dropdown" ><a
+href="http://www.vjsmag.com/shop-category/vj-loops/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/vj-loops/', 'VJ Loops');" >VJ Loops</a></li></ul></div><div
+class="sub-sub-menu"></div></div><div
+style="clear: both"></div></div></li><li
+id="menu-item-2856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2856 no-dropdown template" ><a
+href="http://www.vjsmag.com/videos/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/videos/', 'Videos');" >Videos</a></li><li
+id="menu-item-983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-983 no-dropdown blue" ><a
+href="http://www.vjsmag.com/submit/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/submit/', 'Submit');" >Submit</a></li></ul><div
+class="clear"></div> </section> </nav><nav
+class="top-bar mobile-menu mobile-menu-visble expanded" role="navigation"><section><ul
+class="left"><li
+class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7"><a
+href="http://www.vjsmag.com" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com', 'Home');" >Home</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12 has-dropdown"><a
+href="http://www.vjsmag.com/news/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/', 'News');" >News</a><ul
+class="dropdown"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1158"><a
+href="http://www.vjsmag.com/news/animated/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/animated/', 'Animated');" >Animated</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1159"><a
+href="http://www.vjsmag.com/news/av-space/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/av-space/', 'AV Space');" >AV Space</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66"><a
+href="http://www.vjsmag.com/news/festivals/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/festivals/', 'Festivals');" >Festivals</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67"><a
+href="http://www.vjsmag.com/news/films/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/films/', 'Films');" >Films</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62"><a
+href="http://www.vjsmag.com/news/interviews/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/interviews/', 'Interviews');" >Interviews</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64"><a
+href="http://www.vjsmag.com/news/music/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/music/', 'Music');" >Music</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65"><a
+href="http://www.vjsmag.com/news/product-release/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/product-release/', 'Product Release');" >Product Release</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71"><a
+href="http://www.vjsmag.com/news/performances/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/news/performances/', 'Performances');" >Performances</a></li></ul></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-42 has-dropdown"><a
+href="http://www.vjsmag.com/reviews/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/', 'Reviews');" >Reviews</a><ul
+class="dropdown"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-190"><a
+href="http://www.vjsmag.com/reviews/applications/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/applications/', 'Applications');" >Applications</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a
+href="http://www.vjsmag.com/reviews/audio-reviews/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/audio-reviews/', 'Audio');" >Audio</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-582"><a
+href="http://www.vjsmag.com/reviews/controllers/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/controllers/', 'Controllers');" >Controllers</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57"><a
+href="http://www.vjsmag.com/reviews/electronics/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/electronics/', 'Electronics');" >Electronics</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a
+href="http://www.vjsmag.com/reviews/lighting/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/lighting/', 'Lighting');" >Lighting</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60"><a
+href="http://www.vjsmag.com/reviews/projection/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/projection/', 'Projection');" >Projection</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61"><a
+href="http://www.vjsmag.com/reviews/video/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/reviews/video/', 'Video');" >Video</a></li></ul></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-116 has-dropdown"><a
+href="http://www.vjsmag.com/learning/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/', 'Learning');" >Learning</a><ul
+class="dropdown"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1612"><a
+href="http://www.vjsmag.com/learning/books/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/books/', 'Books');" >Books</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63"><a
+href="http://www.vjsmag.com/learning/community/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/community/', 'Community');" >Community</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-117"><a
+href="http://www.vjsmag.com/learning/education/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/education/', 'Education');" >Education</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120"><a
+href="http://www.vjsmag.com/learning/freeware/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/freeware/', 'Freeware');" >Freeware</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-581"><a
+href="http://www.vjsmag.com/learning/open-source-code/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/open-source-code/', 'Open Source');" >Open Source</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-118"><a
+href="http://www.vjsmag.com/learning/tutorials/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/learning/tutorials/', 'Tutorials');" >Tutorials</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a
+href="http://www.vjsmag.com/tag/workshops/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/workshops/', 'Workshops');" >Workshops</a></li></ul></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20 has-dropdown"><a
+href="http://www.vjsmag.com/events/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/events/', 'Events');" >Events</a><ul
+class="dropdown"><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a
+href="http://www.vjsmag.com/events/month/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/events/month/', 'Calendar');" >Calendar</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1142"><a
+href="http://www.vjsmag.com/tag/animation-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/animation-festival/', 'Animation Festival');" >Animation Festival</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2658"><a
+href="http://www.vjsmag.com/tag/audio-visual-art-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/audio-visual-art-festival/', 'AV Art Festival');" >AV Art Festival</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-229"><a
+href="http://www.vjsmag.com/tag/film-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/film-festival/', 'Film Festival');" >Film Festival</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a
+href="http://www.vjsmag.com/tag/music-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/music-festival/', 'Music Festival');" >Music Festival</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233"><a
+href="http://www.vjsmag.com/tag/new-media-festival/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/tag/new-media-festival/', 'New Media Festival');" >New Media Festival</a></li></ul></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35 has-dropdown"><a
+href="http://www.vjsmag.com/shop/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop/', 'Shop');" >Shop</a><ul
+class="dropdown"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3942"><a
+href="http://www.vjsmag.com/shop-category/ad-spaces/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/ad-spaces/', 'Ad Spaces');" >Ad Spaces</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1481"><a
+href="http://www.vjsmag.com/shop-category/android-app/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/android-app/', 'Android App');" >Android App</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-215"><a
+href="http://www.vjsmag.com/shop-category/controllers/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/controllers/', 'Controllers');" >Controllers</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-192"><a
+href="http://www.vjsmag.com/shop-category/software/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/software/', 'Software');" >Software</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-790"><a
+href="http://www.vjsmag.com/shop-category/iphone-app/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/iphone-app/', 'iPhone App');" >iPhone App</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-791"><a
+href="http://www.vjsmag.com/shop-category/ipad-app/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/ipad-app/', 'iPad App');" >iPad App</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-792"><a
+href="http://www.vjsmag.com/shop-category/mac-app/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/mac-app/', 'Mac App');" >Mac App</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3796"><a
+href="http://www.vjsmag.com/shop-category/vj-loops/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/shop-category/vj-loops/', 'VJ Loops');" >VJ Loops</a></li></ul></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2856"><a
+href="http://www.vjsmag.com/videos/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/videos/', 'Videos');" >Videos</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-983"><a
+href="http://www.vjsmag.com/submit/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/submit/', 'Submit');" >Submit</a></li></ul> </section> </nav><nav
+class="mobile-menu-selectbox" role="navigation"><div
+class="menu-menu-eng-container"><select
+class="mobile-selectbox"><option>Go to ...</option><option
+id="menu-item-7" value="http://www.vjsmag.com">Home</option><option
+id="menu-item-12" value="http://www.vjsmag.com/news/">News</option><option
+id="menu-item-1158" value="http://www.vjsmag.com/news/animated/">- Animated</option><option
+id="menu-item-1159" value="http://www.vjsmag.com/news/av-space/">- AV Space</option><option
+id="menu-item-66" value="http://www.vjsmag.com/news/festivals/">- Festivals</option><option
+id="menu-item-67" value="http://www.vjsmag.com/news/films/">- Films</option><option
+id="menu-item-62" value="http://www.vjsmag.com/news/interviews/">- Interviews</option><option
+id="menu-item-64" value="http://www.vjsmag.com/news/music/">- Music</option><option
+id="menu-item-65" value="http://www.vjsmag.com/news/product-release/">- Product Release</option><option
+id="menu-item-71" value="http://www.vjsmag.com/news/performances/">- Performances</option><option
+id="menu-item-42" value="http://www.vjsmag.com/reviews/">Reviews</option><option
+id="menu-item-190" value="http://www.vjsmag.com/reviews/applications/">- Applications</option><option
+id="menu-item-43" value="http://www.vjsmag.com/reviews/audio-reviews/">- Audio</option><option
+id="menu-item-582" value="http://www.vjsmag.com/reviews/controllers/">- Controllers</option><option
+id="menu-item-57" value="http://www.vjsmag.com/reviews/electronics/">- Electronics</option><option
+id="menu-item-44" value="http://www.vjsmag.com/reviews/lighting/">- Lighting</option><option
+id="menu-item-60" value="http://www.vjsmag.com/reviews/projection/">- Projection</option><option
+id="menu-item-61" value="http://www.vjsmag.com/reviews/video/">- Video</option><option
+id="menu-item-116" value="http://www.vjsmag.com/learning/">Learning</option><option
+id="menu-item-1612" value="http://www.vjsmag.com/learning/books/">- Books</option><option
+id="menu-item-63" value="http://www.vjsmag.com/learning/community/">- Community</option><option
+id="menu-item-117" value="http://www.vjsmag.com/learning/education/">- Education</option><option
+id="menu-item-120" value="http://www.vjsmag.com/learning/freeware/">- Freeware</option><option
+id="menu-item-581" value="http://www.vjsmag.com/learning/open-source-code/">- Open Source</option><option
+id="menu-item-118" value="http://www.vjsmag.com/learning/tutorials/">- Tutorials</option><option
+id="menu-item-230" value="http://www.vjsmag.com/tag/workshops/">- Workshops</option><option
+id="menu-item-20" value="http://www.vjsmag.com/events/">Events</option><option
+id="menu-item-56" value="http://www.vjsmag.com/events/month/">- Calendar</option><option
+id="menu-item-1142" value="http://www.vjsmag.com/tag/animation-festival/">- Animation Festival</option><option
+id="menu-item-2658" value="http://www.vjsmag.com/tag/audio-visual-art-festival/">- AV Art Festival</option><option
+id="menu-item-229" value="http://www.vjsmag.com/tag/film-festival/">- Film Festival</option><option
+id="menu-item-228" value="http://www.vjsmag.com/tag/music-festival/">- Music Festival</option><option
+id="menu-item-233" value="http://www.vjsmag.com/tag/new-media-festival/">- New Media Festival</option><option
+id="menu-item-35" value="http://www.vjsmag.com/shop/">Shop</option><option
+id="menu-item-3942" value="http://www.vjsmag.com/shop-category/ad-spaces/">- Ad Spaces</option><option
+id="menu-item-1481" value="http://www.vjsmag.com/shop-category/android-app/">- Android App</option><option
+id="menu-item-215" value="http://www.vjsmag.com/shop-category/controllers/">- Controllers</option><option
+id="menu-item-192" value="http://www.vjsmag.com/shop-category/software/">- Software</option><option
+id="menu-item-790" value="http://www.vjsmag.com/shop-category/iphone-app/">- iPhone App</option><option
+id="menu-item-791" value="http://www.vjsmag.com/shop-category/ipad-app/">- iPad App</option><option
+id="menu-item-792" value="http://www.vjsmag.com/shop-category/mac-app/">- Mac App</option><option
+id="menu-item-3796" value="http://www.vjsmag.com/shop-category/vj-loops/">- VJ Loops</option><option
+id="menu-item-2856" value="http://www.vjsmag.com/videos/">Videos</option><option
+id="menu-item-983" value="http://www.vjsmag.com/submit/">Submit</option> </select></div> </nav> </header></div><div
+id="main" class="row"><div
+class="featured-area"><div
+id="featured-right"> <article
+id="search-7" class="row widget widget_search"><div
+class="sidebar-section twelve columns"><h2><strong>Search</strong></h2><form
+role="search" method="get" id="searchform" action="http://www.vjsmag.com/"><div
+class="row"><div
+class="twelve columns"><div
+class="row collapse"><div
+class="eight mobile-three columns"> <input
+type="text" value="" name="s" id="s" placeholder="Search"></div><div
+class="four mobile-one columns"> <input
+type="submit" id="searchsubmit" value="Search" class="postfix button"></div></div></div></div></form></div></article><article
+id="text-4" class="row widget widget_text"><div
+class="sidebar-section twelve columns"><div
+class="textwidget"><select
+size="1" onChange = "if(options[selectedIndex].value) { window.location.href = (options[selectedIndex].value); }" onClick="Size(this.id, 4);" class="select" onMouseOut="cleanSize(this.id)"><option
+value="#">Select tag</option><option
+value="http://www.vjsmag.com/tag/2k/">2K (0)</option><option
+value="http://www.vjsmag.com/tag/4k/">4K (0)</option><option
+value="http://www.vjsmag.com/tag/android/">Android (0)</option><option
+value="http://www.vjsmag.com/tag/arduino/">Arduino (1)</option><option
+value="http://www.vjsmag.com/tag/augmented-reality/">Augmented Reality (0)</option><option
+value="http://www.vjsmag.com/tag/bnc/">BNC (0)</option><option
+value="http://www.vjsmag.com/tag/camera/">Camera (0)</option><option
+value="http://www.vjsmag.com/tag/cinder/">Cinder (0)</option><option
+value="http://www.vjsmag.com/tag/codecs/">Codecs (1)</option><option
+value="http://www.vjsmag.com/tag/controller/">Controller (2)</option><option
+value="http://www.vjsmag.com/tag/composite/">Composite (0)</option><option
+value="http://www.vjsmag.com/tag/diy/">DIY (0)</option><option
+value="http://www.vjsmag.com/tag/dmx/">DMX (1)</option><option
+value="http://www.vjsmag.com/tag/dvi/">DVI (0)</option><option
+value="http://www.vjsmag.com/tag/ethernet/">Ethernet (0)</option><option
+value="http://www.vjsmag.com/tag/flash/">Flash (0)</option><option
+value="http://www.vjsmag.com/tag/flash-memory/">Flash Memory (0)</option><option
+value="http://www.vjsmag.com/tag/free/">Freeware (17)</option><option
+value="http://www.vjsmag.com/tag/fullhd/">FullHD (0)</option><option
+value="http://www.vjsmag.com/tag/gif/">GIF (0)</option><option
+value="http://www.vjsmag.com/tag/glitch/">Glitch (1)</option><option
+value="http://www.vjsmag.com/tag/hd/">HD (1)</option><option
+value="http://www.vjsmag.com/tag/hdd/">HDD (0)</option><option
+value="http://www.vjsmag.com/tag/hdmi/">HDMI (1)</option><option
+value="http://www.vjsmag.com/tag/infrared/">Infrared (0)</option><option
+value="http://www.vjsmag.com/tag/ios-apple/">iOS (0)</option><option
+value="http://www.vjsmag.com/tag/ipad/">iPad (4)</option><option
+value="http://www.vjsmag.com/tag/iphone/">iPhone (3)</option><option
+value="http://www.vjsmag.com/tag/led/">LED (0)</option><option
+value="http://www.vjsmag.com/tag/lightings/">Lighting (0)</option><option
+value="http://www.vjsmag.com/tag/linux/">Linux (2)</option><option
+value="http://www.vjsmag.com/tag/mac/">Mac (6)</option><option
+value="http://www.vjsmag.com/tag/mac-app/">Mac App (0)</option><option
+value="http://www.vjsmag.com/tag/maxmsp/">MaxMSP (0)</option><option
+value="http://www.vjsmag.com/tag/material/">Material (0)</option><option
+value="http://www.vjsmag.com/tag/midi/">MIDI (1)</option><option
+value="http://www.vjsmag.com/tag/oled/">OLED (0)</option><option
+value="http://www.vjsmag.com/tag/openframeworks/">openFrameworks (0)</option><option
+value="http://www.vjsmag.com/tag/open-source/">Open Source (3)</option><option
+value="http://www.vjsmag.com/tag/processing/">Processing (0)</option><option
+value="http://www.vjsmag.com/tag/quartz-composer/">Quartz Composer (0)</option><option
+value="http://www.vjsmag.com/tag/plugin/">Plugin (0)</option><option
+value="http://www.vjsmag.com/tag/projector/">Projector (0)</option><option
+value="http://www.vjsmag.com/tag/s-video/">S-Video (0)</option><option
+value="http://www.vjsmag.com/tag/sd/">SD (0)</option><option
+value="http://www.vjsmag.com/tag/softwares/">Softwares (0)</option><option
+value="http://www.vjsmag.com/tag/sound/">Sound (0)</option><option
+value="http://www.vjsmag.com/tag/stereoscopic/">Stereoscopic (0)</option><option
+value="http://www.vjsmag.com/tag/structure/">Structure (0)</option><option
+value="http://www.vjsmag.com/tag/textile/">Textile (0)</option><option
+value="http://www.vjsmag.com/tag/thunderbolt/">Thunderbolt (0)</option><option
+value="http://www.vjsmag.com/tag/touchdesigner/">TouchDesigner (0)</option><option
+value="http://www.vjsmag.com/tag/tutorials/">Tutorials (97)</option><option
+value="http://www.vjsmag.com/tag/usb/">USB (1)</option><option
+value="http://www.vjsmag.com/tag/vga/">VGA (1)</option><option
+value="http://www.vjsmag.com/tag/video-synthesizer/">Video Synthesizer (0)</option><option
+value="http://www.vjsmag.com/tag/virtual-reality/">Virtual Reality (0)</option><option
+value="http://www.vjsmag.com/tag/vvvv/">vvvv (0)</option><option
+value="http://www.vjsmag.com/tag/wearable/">Wearable (0)</option><option
+value="http://www.vjsmag.com/tag/webapp/">WebApp (1)</option><option
+value="http://www.vjsmag.com/tag/windows/">Windows (6)</option><option
+value="http://www.vjsmag.com/tag/wireless/">Wireless (0)</option></select></div></div></article><article
+id='social_widget' class='row widget'><h2><strong>Social</strong></h2><div
+class='social google '><div
+class="social-icons"></div><a
+href='https://plus.google.com/+Vjsmag' class='user'>84<br><span>followers</span></a></div><div
+class='social twitter '><div
+class="social-icons"></div><a
+href='https://twitter.com/VJsMag' class='user'>334<br><span>followers</span></a></div><div
+class='social facebook '><div
+class="social-icons"></div><a
+href='https://www.facebook.com/VJsMag' class='user'>4014<br><span>fans</span></a></div><div
+class='social youtube '><div
+class="social-icons"></div><a
+href='http://www.youtube.com/channel/UCTY7jxO18YOaqefY-ikWHvA' class='user'>303<br><span>suscribers</span></a></div><div
+class='social vimeo last-social-item'><div
+class="social-icons"></div><a
+href='http://vimeo.com/channels/vjstv' class='user'>1065<br><span>followers</span></a></div><div
+class='social rss last-social-item'><div
+class="social-icons"></div><a
+href='http://feeds.feedburner.com/VJsMag' class='link'><span>Suscribe</span><br>To RSS Feed</a></div><div
+class='clear'></div></article></div><div
+id="slider"><div
+id="slider_home" class="down"><div
+class="slider_area" speed="4000" ><div
+class="top_arrow"><div
+class="arrow_top"></div></div><div
+class="bottom_arrow"><div
+class="arrow_bottom"></div></div><ul
+class="slider_list"><li><div
+class="image_holder"><a
+href="http://www.vjsmag.com/video-mapping-toolkit-tutorial/" target="_self"><img
+width="310" height="375" src="http://www.vjsmag.com/wp-content/uploads/2014/10/vjs-magazine-lime-group-video-mapping-tutorial-toolkit-310x375.png" class="attachment-slidebar-big wp-post-image" alt="vjs-magazine-lime-group-video-mapping-tutorial-toolkit" /></a></div><div
+class="text_holder"><h2><a
+href="http://www.vjsmag.com/video-mapping-toolkit-tutorial/" target="_self">Video Mapping Toolkit Tutorial</a></h2><p>Video Mapping Toolkit Tutorial</p></div></li><li><div
+class="image_holder"><a
+href="http://www.vjsmag.com/learn-perform-visuals-create-videos/" target="_self"><img
+width="310" height="375" src="http://www.vjsmag.com/wp-content/uploads/2014/06/vjs-magazine-visual-performance-program-dubspot-310x375.jpg" class="attachment-slidebar-big wp-post-image" alt="vjs-magazine-visual-performance-program-dubspot" /></a></div><div
+class="text_holder"><h2><a
+href="http://www.vjsmag.com/learn-perform-visuals-create-videos/" target="_self">Learn how to perform with visuals and create your  ...</a></h2><p>Learn how to perform with visuals. Develop your cr ...</p></div></li><li><div
+class="image_holder"><a
+href="http://www.vjsmag.com/lightbomb-active-dmx-driver-unit/" target="_self"><img
+width="310" height="375" src="http://www.vjsmag.com/wp-content/uploads/2014/07/vjs-magazine-lightbomb-dmx-led-driver-release-310x375.jpg" class="attachment-slidebar-big wp-post-image" alt="vjs-magazine-lightbomb-dmx-led-driver-release" /></a></div><div
+class="text_holder"><h2><a
+href="http://www.vjsmag.com/lightbomb-active-dmx-driver-unit/" target="_self">LIGHTBOMB Active DMX Driver Unit</a></h2><p>LED strips are great for making custom installatio ...</p></div></li><li><div
+class="image_holder"><a
+href="http://www.vjsmag.com/visual-effects-grand-budapest-hotel/" target="_self"><img
+width="310" height="375" src="http://www.vjsmag.com/wp-content/uploads/2014/07/vjs-magazine-visual-effects-for-wes-andersons-the-grand-budapest-hotel-310x375.jpg" class="attachment-slidebar-big wp-post-image" alt="vjs-magazine-visual-effects-for-wes-andersons-the-grand-budapest-hotel" /></a></div><div
+class="text_holder"><h2><a
+href="http://www.vjsmag.com/visual-effects-grand-budapest-hotel/" target="_self">Visual effects for The Grand Budapest Hotel</a></h2><p>The films of Wes Anderson are recognizable for his ...</p></div></li><li><div
+class="image_holder"><a
+href="http://www.vjsmag.com/forum-digital-arts-documentary/" target="_self"><img
+width="310" height="360" src="http://www.vjsmag.com/wp-content/uploads/2014/08/vjs-magazine-node13-forum-digital-arts-documentary-310x360.jpg" class="attachment-slidebar-big wp-post-image" alt="vjs-magazine-node13-forum-digital-arts-documentary" /></a></div><div
+class="text_holder"><h2><a
+href="http://www.vjsmag.com/forum-digital-arts-documentary/" target="_self">Forum for Digital Arts, Documentary</a></h2><p>Paoloreste Gelfo and his team of ambitious videogr ...</p></div></li><li><div
+class="image_holder"><a
+href="http://www.vjsmag.com/eyebeam-leading-profit-art-technology" target="_self"><img
+width="310" height="375" src="http://www.vjsmag.com/wp-content/uploads/2014/09/vjs-magazine-eyebeam-310x375.jpeg" class="attachment-slidebar-big wp-post-image" alt="vjs-magazine-eyebeam" /></a></div><div
+class="text_holder"><h2><a
+href="http://www.vjsmag.com/eyebeam-leading-profit-art-technology" target="_self">Eyebeam, leading not-for-profit art and technology</a></h2><p>Founded in 1997, Eyebeam was conceived as a non-pr ...</p></div></li></ul></div><div
+class="navigation_area"><ul
+class="slides_list"><li
+class="template"><div
+class="image_holder"><a
+href="http://www.vjsmag.com/forum-digital-arts-documentary/" target="_self"><img
+width="145" height="105" src="http://www.vjsmag.com/wp-content/uploads/2014/08/vjs-magazine-node13-forum-digital-arts-documentary-145x105.jpg" class="attachment-slidebar-small wp-post-image" alt="vjs-magazine-node13-forum-digital-arts-documentary" /></a></div><div
+class="text_holder"><h3><a
+href="http://www.vjsmag.com/forum-digital-arts-documentary/" target="_self">Forum for Digital Arts, Documentary</a></h3></div></li><li
+class="template"><div
+class="image_holder"><a
+href="http://www.vjsmag.com/visual-effects-grand-budapest-hotel/" target="_self"><img
+width="145" height="105" src="http://www.vjsmag.com/wp-content/uploads/2014/07/vjs-magazine-visual-effects-for-wes-andersons-the-grand-budapest-hotel-145x105.jpg" class="attachment-slidebar-small wp-post-image" alt="vjs-magazine-visual-effects-for-wes-andersons-the-grand-budapest-hotel" /></a></div><div
+class="text_holder"><h3><a
+href="http://www.vjsmag.com/visual-effects-grand-budapest-hotel/" target="_self">Visual effects for The Grand Budapest Hotel</a></h3></div></li><li
+class="template"><div
+class="image_holder"><a
+href="http://www.vjsmag.com/lightbomb-active-dmx-driver-unit/" target="_self"><img
+width="145" height="105" src="http://www.vjsmag.com/wp-content/uploads/2014/07/vjs-magazine-lightbomb-dmx-led-driver-release-145x105.jpg" class="attachment-slidebar-small wp-post-image" alt="vjs-magazine-lightbomb-dmx-led-driver-release" /></a></div><div
+class="text_holder"><h3><a
+href="http://www.vjsmag.com/lightbomb-active-dmx-driver-unit/" target="_self">LIGHTBOMB Active DMX Driver Unit</a></h3></div></li><li
+class="template"><div
+class="image_holder"><a
+href="http://www.vjsmag.com/learn-perform-visuals-create-videos/" target="_self"><img
+width="145" height="105" src="http://www.vjsmag.com/wp-content/uploads/2014/06/vjs-magazine-visual-performance-program-dubspot-145x105.jpg" class="attachment-slidebar-small wp-post-image" alt="vjs-magazine-visual-performance-program-dubspot" /></a></div><div
+class="text_holder"><h3><a
+href="http://www.vjsmag.com/learn-perform-visuals-create-videos/" target="_self">Learn how to perform with visuals and create your  ...</a></h3></div></li><li
+class="template"><div
+class="image_holder"><a
+href="http://www.vjsmag.com/video-mapping-toolkit-tutorial/" target="_self"><img
+width="145" height="105" src="http://www.vjsmag.com/wp-content/uploads/2014/10/vjs-magazine-lime-group-video-mapping-tutorial-toolkit-145x105.png" class="attachment-slidebar-small wp-post-image" alt="vjs-magazine-lime-group-video-mapping-tutorial-toolkit" /></a></div><div
+class="text_holder"><h3><a
+href="http://www.vjsmag.com/video-mapping-toolkit-tutorial/" target="_self">Video Mapping Toolkit Tutorial</a></h3></div></li><li
+class="template"><div
+class="image_holder"><a
+href="http://www.vjsmag.com/eyebeam-leading-profit-art-technology" target="_self"><img
+width="145" height="105" src="http://www.vjsmag.com/wp-content/uploads/2014/09/vjs-magazine-eyebeam-145x105.jpeg" class="attachment-slidebar-small wp-post-image" alt="vjs-magazine-eyebeam" /></a></div><div
+class="text_holder"><h3><a
+href="http://www.vjsmag.com/eyebeam-leading-profit-art-technology" target="_self">Eyebeam, leading not-for-profit art and technology</a></h3></div></li></ul></div><div
+class="clear"></div></div></div><div
+class="clear"></div><div
+class="portfolio_categories "><div
+class="blog-items-sortby"><ul
+class="blog-items-sortby-list"><li
+class="blog-items-sortby-title"><a >Sort:</a></li><li><a
+href="#date" >Date</a></li><li><a
+href="#name" >Name</a></li><li><a
+href="#rating" >Rating</a></li><li><a
+href="#popular" >Popular</a></li><li><a
+href="#category" >Category</a></li></ul></div><div
+class="blog-items-search"><div
+id="search_button"></div><div
+class="widget widget_search"><form
+role="search" method="get" id="searchform" action="http://www.vjsmag.com/"><div
+class="row"><div
+class="twelve columns"><div
+class="row collapse"><div
+class="eight mobile-three columns"> <input
+type="text" value="" name="s" id="s" placeholder="Search"></div><div
+class="four mobile-one columns"> <input
+type="submit" id="searchsubmit" value="Search" class="postfix button"></div></div></div></div></form></div></div><div
+class="clear"></div></div></div><div
+class="clear"></div><div
+id="content" class="twelve columns sidebar-none" role="main"><div
+id="elements_iso" class=""> <article
+id="post-3786"  class="post-3786 post type-post status-publish format-video has-post-thumbnail hentry category-tutorials tag-after-effects-tutorials tag-video-mapping-tutorials element one_col category_template"
+sort_name="video mapping toolkit tutorial"
+sort_date="2014-10-07 14:22:14"
+sort_rating="0"
+sort_popular="0"
+sort_category="tutorials"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"><span
+class="categories"><a
+href="http://www.vjsmag.com/learning/tutorials/">Tutorials</a></span><div
+class="image"><a
+href=http://vimeo.com/107702917 rel="prettyPhoto" title="Video Mapping Toolkit Tutorial"><span
+class="content_video_icon" ></span><img
+width="296" height="168" src="http://www.vjsmag.com/wp-content/uploads/2014/10/vjs-magazine-lime-group-video-mapping-tutorial-toolkit-296x168.png" class="attachment-post-size wp-post-image" alt="vjs-magazine-lime-group-video-mapping-tutorial-toolkit" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> October 7, 2014 </span> <a
+href="http://www.vjsmag.com/video-mapping-toolkit-tutorial/#comments"><span
+class="rt-comment"> 0 Comments </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/video-mapping-toolkit-tutorial/">Video Mapping Toolkit Tutorial</a></h2> </header><p><p>Video Mapping Toolkit Tutorial</p></p></div></div> </article> <article
+class="type-ads element isotope-item one_col google_ads_box"
+sort_name="handszzz"
+sort_date="2014-07-03 22:12:15"
+sort_popular="1"
+sort_rating="-1"
+sort_category="cut"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"><div
+class="post_banner"> <a
+href="http://www.vjsmag.com/shop/vjsmag-com-header-ad-space-468x60-free-sidebar-ad-space-300x250-1-month/"    target="_blank"> <img
+src="http://www.vjsmag.com/wp-content/uploads/2014/11/vjs-magazine-ad-spaces1.jpg"> </a></div></div> </article><article
+id="post-3750"  class="post-3750 post type-post status-publish format-standard has-post-thumbnail hentry category-community category-learning tag-non-profit tag-organization element one_col category_template has-thumbnail"
+sort_name="eyebeam, leading not-for-profit art and technology"
+sort_date="2014-09-24 13:35:34"
+sort_rating="0"
+sort_popular="1"
+sort_category="community"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/learning/community/">Community</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/eyebeam-leading-profit-art-technology" title="Eyebeam, leading not-for-profit art and technology"><img
+width="296" height="222" src="http://www.vjsmag.com/wp-content/uploads/2014/09/vjs-magazine-eyebeam-296x222.jpeg" class="attachment-post-size wp-post-image" alt="vjs-magazine-eyebeam" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> September 24, 2014 </span> <a
+href="http://www.vjsmag.com/eyebeam-leading-profit-art-technology#comments"><span
+class="rt-comment"> 1 Comment </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/eyebeam-leading-profit-art-technology" class="post_name">Eyebeam, leading not-for-profit art and technology</a></h2> </header><p>Founded in 1997, Eyebeam was conceived as a non-profit art and technology center dedicated to exposing broad and diverse audiences [&hellip;]</p></div></div> </article> <article
+id="post-3731"  class="post-3731 post type-post status-publish format-video has-post-thumbnail hentry category-films tag-documentary tag-festival tag-node tag-vvvv element one_col category_template"
+sort_name="forum for digital arts, documentary"
+sort_date="2014-08-22 09:30:53"
+sort_rating="0"
+sort_popular="1"
+sort_category="films"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"><span
+class="categories"><a
+href="http://www.vjsmag.com/news/films/">Films</a></span><div
+class="image"><a
+href=http://vimeo.com/65049567 rel="prettyPhoto" title="Forum for Digital Arts, Documentary"><span
+class="content_video_icon" ></span><img
+width="296" height="166" src="http://www.vjsmag.com/wp-content/uploads/2014/08/vjs-magazine-node13-forum-digital-arts-documentary-296x166.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-node13-forum-digital-arts-documentary" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> August 22, 2014 </span> <a
+href="http://www.vjsmag.com/forum-digital-arts-documentary/#comments"><span
+class="rt-comment"> 1 Comment </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/forum-digital-arts-documentary/">Forum for Digital Arts, Documentary</a></h2> </header><p><p>Paoloreste Gelfo and his team of ambitious videographers followed every stage of the festival and have taken hours of video [&hellip;]</p></p></div></div> </article><article
+id="post-3619"  class="post-3619 post type-post status-publish format-standard has-post-thumbnail hentry category-films tag-color-correction tag-green-screen tag-special-effects tag-vfx element one_col category_template has-thumbnail"
+sort_name="visual effects for the grand budapest hotel"
+sort_date="2014-07-05 20:48:13"
+sort_rating="0"
+sort_popular="1"
+sort_category="films"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/news/films/">Films</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/visual-effects-grand-budapest-hotel/" title="Visual effects for The Grand Budapest Hotel"><img
+width="296" height="185" src="http://www.vjsmag.com/wp-content/uploads/2014/07/vjs-magazine-visual-effects-for-wes-andersons-the-grand-budapest-hotel-296x185.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-visual-effects-for-wes-andersons-the-grand-budapest-hotel" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> July 5, 2014 </span> <a
+href="http://www.vjsmag.com/visual-effects-grand-budapest-hotel/#comments"><span
+class="rt-comment"> 1 Comment </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/visual-effects-grand-budapest-hotel/" class="post_name">Visual effects for The Grand Budapest Hotel</a></h2> </header><p>The films of Wes Anderson are recognizable for his centered shots, surrealist imagery in motion with the help of visual [&hellip;]</p></div></div> </article><article
+id="post-3600"  class="post-3600 post type-post status-publish format-standard has-post-thumbnail hentry category-product-release tag-dmx tag-ethernet tag-led tag-xlr element one_col category_template has-thumbnail"
+sort_name="lightbomb active dmx driver unit"
+sort_date="2014-07-03 22:12:15"
+sort_rating="0"
+sort_popular="1"
+sort_category="product-release"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/news/product-release/">Product Release</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/lightbomb-active-dmx-driver-unit/" title="LIGHTBOMB Active DMX Driver Unit"><img
+width="296" height="139" src="http://www.vjsmag.com/wp-content/uploads/2014/07/vjs-magazine-lightbomb-dmx-led-driver-release-296x139.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-lightbomb-dmx-led-driver-release" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> July 3, 2014 </span> <a
+href="http://www.vjsmag.com/lightbomb-active-dmx-driver-unit/#comments"><span
+class="rt-comment"> 1 Comment </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/lightbomb-active-dmx-driver-unit/" class="post_name">LIGHTBOMB Active DMX Driver Unit</a></h2> </header><p>LED strips are great for making custom installations all over and how ever, what they don&#8217;t tell you tho is how [&hellip;]</p></div></div> </article> <article
+class="type-ads element isotope-item one_col google_ads_box"
+sort_name="vj: azzz"
+sort_date="2014-05-12 19:40:18"
+sort_popular="0"
+sort_rating="-1"
+sort_category="yak"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"><div
+class="google_ads"><center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins
+class="adsbygoogle"
+style="display:inline-block;width:250px;height:250px"
+data-ad-client="ca-pub-3494818284713517"
+data-ad-slot="5318576503"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></center></div></div> </article> <article
+id="post-2580"  class="post-2580 post type-post status-publish format-video has-post-thumbnail hentry category-education tag-dubspot tag-vdmx-courses tag-visual-performance-courses tag-vj-courses element one_col category_template"
+sort_name="learn how to perform with visuals and create your own videos"
+sort_date="2014-05-29 18:56:43"
+sort_rating="0"
+sort_popular="0"
+sort_category="education"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"><span
+class="categories"><a
+href="http://www.vjsmag.com/learning/education/">Education</a></span><div
+class="image"><a
+href=http://www.youtube.com/watch?v=4azPvCqT2o0 rel="prettyPhoto" title="Learn how to perform with visuals and create your own videos"><span
+class="content_video_icon" ></span><img
+width="296" height="166" src="http://www.vjsmag.com/wp-content/uploads/2014/06/vjs-magazine-visual-performance-program-dubspot-296x166.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-visual-performance-program-dubspot" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 29, 2014 </span> <a
+href="http://www.vjsmag.com/learn-perform-visuals-create-videos/#comments"><span
+class="rt-comment"> 0 Comments </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/learn-perform-visuals-create-videos/">Learn how to perform with visuals and create your own videos</a></h2> </header><p><p>Learn how to perform with visuals. Develop your creative vision through hands-on practice with the latest technologies.  Explore the role [&hellip;]</p></p></div></div> </article><article
+id="post-2872"  class="post-2872 post type-post status-publish format-standard has-post-thumbnail hentry category-controllers tag-controller element one_col category_template has-thumbnail"
+sort_name="hands on: faderfox micromodul8"
+sort_date="2014-05-22 02:37:00"
+sort_rating="0"
+sort_popular="1"
+sort_category="controllers"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/reviews/controllers/">Controllers</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/hands-faderfox-micromodul8/" title="Hands on: FaderFox MicroModul8"><img
+width="296" height="222" src="http://www.vjsmag.com/wp-content/uploads/2014/06/vjs-magazine-hands-faderfox-micromodul8-2-296x222.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-hands-faderfox-micromodul8-2" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 22, 2014 </span> <a
+href="http://www.vjsmag.com/hands-faderfox-micromodul8/#comments"><span
+class="rt-comment"> 1 Comment </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/hands-faderfox-micromodul8/" class="post_name">Hands on: FaderFox MicroModul8</a></h2> </header><p>Faderfox Micromodul8 &#8211; the quasi-inhouse Midicontroller from Garagecube &#8211; is at the ready. Time for a little Hands-On-Check. THE HARDWARE [&hellip;]</p></div></div> </article><article
+id="post-788"  class="post-788 post type-post status-publish format-standard has-post-thumbnail hentry category-community element one_col category_template has-thumbnail"
+sort_name="lpm international meeting dedicated to artists and performers"
+sort_date="2014-05-21 19:30:36"
+sort_rating="0"
+sort_popular="0"
+sort_category="community"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/learning/community/">Community</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/live-performers-meeting/" title="LPM International Meeting Dedicated To Artists and Performers"><img
+width="296" height="166" src="http://www.vjsmag.com/wp-content/uploads/2014/05/vjs-magazine-live-performers-meeting-296x166.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-live-performers-meeting" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 21, 2014 </span> <a
+href="http://www.vjsmag.com/live-performers-meeting/#comments"><span
+class="rt-comment"> 0 Comments </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/live-performers-meeting/" class="post_name">LPM International Meeting Dedicated To Artists and Performers</a></h2> </header><p>Born in 2004, with the aim to answer to the need for creating a space-temporal referential field where to meet, [&hellip;]</p></div></div> </article> <article
+id="post-619"  class="post-619 post type-post status-publish format-video has-post-thumbnail hentry category-freeware tag-free tag-webapp element one_col category_template"
+sort_name="&#8220;fi-vj&#8221; japanese vj webapp made in html5"
+sort_date="2014-05-20 06:37:51"
+sort_rating="0"
+sort_popular="0"
+sort_category="freeware"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"><span
+class="categories"><a
+href="http://www.vjsmag.com/learning/freeware/">Freeware</a></span><div
+class="image"><a
+href="http://www.vjsmag.com/fi-vj-japanese-vj-webapp-made-html5/" title="&#8220;FI-VJ&#8221; Japanese VJ Webapp made in HTML5"><span
+class="content_video_icon" ></span><img
+width="296" height="148" src="http://www.vjsmag.com/wp-content/uploads/2014/05/vjs-magazine-fivj-296x148.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-fivj" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 20, 2014 </span> <a
+href="http://www.vjsmag.com/fi-vj-japanese-vj-webapp-made-html5/#comments"><span
+class="rt-comment"> 0 Comments </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/fi-vj-japanese-vj-webapp-made-html5/">&#8220;FI-VJ&#8221; Japanese VJ Webapp made in HTML5</a></h2> </header><p><p>VJ app called Fi-VJ (Five Lee Jay) created by japanese developer Akira FUKUOKA and released in May 2011. It is [&hellip;]</p></p></div></div> </article><article
+id="post-546"  class="post-546 post type-post status-publish format-standard has-post-thumbnail hentry category-freeware tag-free element one_col category_template has-thumbnail"
+sort_name="add interactive graphics to your performances with emotion"
+sort_date="2014-05-20 04:38:46"
+sort_rating="0"
+sort_popular="1"
+sort_category="freeware"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/learning/freeware/">Freeware</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/add-interactive-graphics-performances-emotion/" title="Add Interactive Graphics To Your Performances with eMotion"><img
+width="296" height="197" src="http://www.vjsmag.com/wp-content/uploads/2014/05/vjs-magazine-emotion-interactive-296x197.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-emotion-interactive" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 20, 2014 </span> <a
+href="http://www.vjsmag.com/add-interactive-graphics-performances-emotion/#comments"><span
+class="rt-comment"> 1 Comment </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/add-interactive-graphics-performances-emotion/" class="post_name">Add Interactive Graphics To Your Performances with eMotion</a></h2> </header><p>eMotion is an app for creating interactions between graphical objects and real word information. It is based on a physical [&hellip;]</p></div></div> </article><article
+id="post-525"  class="post-525 post type-post status-publish format-standard has-post-thumbnail hentry category-freeware element one_col category_template has-thumbnail"
+sort_name="veejay: a realtime video sequencer and effects processor"
+sort_date="2014-05-20 04:26:40"
+sort_rating="0"
+sort_popular="0"
+sort_category="freeware"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/learning/freeware/">Freeware</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/veejay-realtime-video-sequencer-effects-processor/" title="Veejay: A Realtime Video Sequencer And Effects Processor"><img
+width="296" height="204" src="http://www.vjsmag.com/wp-content/uploads/2014/05/vjs-magazine-veejay-296x204.png" class="attachment-post-size wp-post-image" alt="vjs-magazine-veejay" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 20, 2014 </span> <a
+href="http://www.vjsmag.com/veejay-realtime-video-sequencer-effects-processor/#comments"><span
+class="rt-comment"> 0 Comments </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/veejay-realtime-video-sequencer-effects-processor/" class="post_name">Veejay: A Realtime Video Sequencer And Effects Processor</a></h2> </header><p>With veejay, you can play the video like you would play a piano While playing, you can record the resulting [&hellip;]</p></div></div> </article><article
+id="post-523"  class="post-523 post type-post status-publish format-standard has-post-thumbnail hentry category-freeware tag-live-3 tag-osc tag-performance-2 tag-vj tag-vj-ing element one_col category_template has-thumbnail"
+sort_name="onar 3d mother: free application for running multiple processing sketches"
+sort_date="2014-05-20 04:25:49"
+sort_rating="0"
+sort_popular="1"
+sort_category="freeware"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/learning/freeware/">Freeware</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/onar-3d-mother-free-application-running-multiple-processing-sketches/" title="Onar 3D Mother: Free Application For Running Multiple Processing Sketches"><img
+width="296" height="166" src="http://www.vjsmag.com/wp-content/uploads/2014/05/vjs-magazine-onar-3d-296x166.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-onar-3d" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 20, 2014 </span> <a
+href="http://www.vjsmag.com/onar-3d-mother-free-application-running-multiple-processing-sketches/#comments"><span
+class="rt-comment"> 1 Comment </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/onar-3d-mother-free-application-running-multiple-processing-sketches/" class="post_name">Onar 3D Mother: Free Application For Running Multiple Processing Sketches</a></h2> </header><p>Mother is a standalone host application for running multiple Processing sketches in parallel, and mixing their output, in a manner [&hellip;]</p></div></div> </article> <article
+id="post-3362"  class="post-3362 post type-post status-publish format-video has-post-thumbnail hentry category-tutorials tag-coge-tutorials tag-tutorials element one_col category_template"
+sort_name="matrix midi/osc mapping with the shift key in coge"
+sort_date="2014-05-15 18:27:05"
+sort_rating="0"
+sort_popular="1"
+sort_category="tutorials"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"><span
+class="categories"><a
+href="http://www.vjsmag.com/learning/tutorials/">Tutorials</a></span><div
+class="image"><a
+href=http://vimeo.com/95380393 rel="prettyPhoto" title="Matrix MIDI/OSC mapping with the SHIFT key in CoGe"><span
+class="content_video_icon" ></span><img
+width="296" height="166" src="http://www.vjsmag.com/wp-content/uploads/2014/06/vjs-magazine-matrix-midiosc-mapping-with-the-shift-key-in-coge-296x166.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-matrix-midiosc-mapping-with-the-shift-key-in-coge" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 15, 2014 </span> <a
+href="http://www.vjsmag.com/matrix-midiosc-mapping-shift-key-coge/#comments"><span
+class="rt-comment"> 1 Comment </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/matrix-midiosc-mapping-shift-key-coge/">Matrix MIDI/OSC mapping with the SHIFT key in CoGe</a></h2> </header><p><p>Short tutorial shows how to auto-map matrixes in CoGe. CoGe is a semi-modular, Quartz Composer® powered VJ application for Mac [&hellip;]</p></p></div></div> </article><article
+id="post-1895"  class="post-1895 post type-post status-publish format-standard has-post-thumbnail hentry category-books tag-audio-visual-books tag-d-fuse tag-michael-faulkner tag-vj-culture-books tag-vjing-books element one_col category_template has-thumbnail"
+sort_name="vj: audio-visual art and vj culture"
+sort_date="2014-05-14 00:46:25"
+sort_rating="0"
+sort_popular="0"
+sort_category="books"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"> <span
+class="categories"><a
+href="http://www.vjsmag.com/learning/books/">Books</a></span><div
+class="image"> <a
+href="http://www.vjsmag.com/vj-audio-visual-art-vj-culture/" title="VJ: Audio-Visual Art and VJ Culture"><img
+width="296" height="313" src="http://www.vjsmag.com/wp-content/uploads/2014/06/vjs-magazine-VJ-Book-Audio-Visual-Art-Culture-Includes-296x313.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-VJ-Book-Audio-Visual-Art-Culture-Includes" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 14, 2014 </span> <a
+href="http://www.vjsmag.com/vj-audio-visual-art-vj-culture/#comments"><span
+class="rt-comment"> 0 Comments </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/vj-audio-visual-art-vj-culture/" class="post_name">VJ: Audio-Visual Art and VJ Culture</a></h2> </header><p>A major change has taken place at dance clubs worldwide: the advent of the VJ. Once the term referred to [&hellip;]</p></div></div> </article> <article
+id="post-3422"  class="post-3422 post type-post status-publish format-video has-post-thumbnail hentry category-tutorials tag-tutorials tag-vezer-tutorials element one_col category_template"
+sort_name="import color files in vezér"
+sort_date="2014-05-12 19:40:18"
+sort_rating="0"
+sort_popular="0"
+sort_category="tutorials"
+sort_custom1="0"
+sort_custom2="0"
+><div
+class="box"><span
+class="categories"><a
+href="http://www.vjsmag.com/learning/tutorials/">Tutorials</a></span><div
+class="image"><a
+href=http://vimeo.com/95015129 rel="prettyPhoto" title="Import Color files in Vezér"><span
+class="content_video_icon" ></span><img
+width="296" height="166" src="http://www.vjsmag.com/wp-content/uploads/2014/06/vjs-magazine-import-color-files-in-vezer-296x166.jpg" class="attachment-post-size wp-post-image" alt="vjs-magazine-import-color-files-in-vezer" /></a><div
+class="caption caption_fadeeffect"><div
+class="caption-content"> <span
+class="date"> May 12, 2014 </span> <a
+href="http://www.vjsmag.com/import-color-files-vezer/#comments"><span
+class="rt-comment"> 0 Comments </span> </a></div></div></div><div
+class="content-box"> <header><h2><a
+href="http://www.vjsmag.com/import-color-files-vezer/">Import Color files in Vezér</a></h2> </header><p><p>Little demo about how to import Color Swatches in Vezér. &nbsp; Vezér enables control of realtime video software, lighting setups, [&hellip;]</p></p></div></div> </article></div><div
+class="clear"></div><div
+id="infinite_load" class="row ajax"><div
+id="post-nav-infinite"><div
+class="post-previous-infinite" ><a
+href="http://www.vjsmag.com/page/2/" > Older posts</a></div><div
+class="post-next-infinite"></div></div></div><script>/*<![CDATA[*/var infinite_scroll={nextSelector:"#post-nav-infinite .post-previous-infinite a",navSelector:"#post-nav-infinite",itemSelector:"article.element",contentSelector:"#elements_iso",debug:false,appendCallback:true,loading:{msgText:" ",finishedMsg:"<h6>No additional posts.</h6>",img:" http://www.vjsmag.com/wp-content/themes/flyingnews/images/ajax-loader.gif",speed:1000,selector:"#infinite_load"},animate:true};var type="ajax";/*]]>*/</script></div></div> <footer
+id="footer-content-info" role="contentinfo"><div
+class="row"><div
+class="twelve columns"><div
+class="footer-content"><div
+class="four columns"></div><div
+class="four columns"></div><div
+class="four columns"></div></div></div></div> </footer><div
+id="footer-copyright"><div
+id="copyright" class="row"><div
+class="twelve columns"><div
+class="six columns"> Copyright © 2014, <a
+href="http://www.vjsmag.com">VJs Mag</a>. All rights reserved.</div><div
+class="six columns copyright-menu"><div
+class="menu-footer-eng-container"><ul
+id="menu-footer-eng" class="template-footer-menu"><li
+id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a
+href="http://www.vjsmag.com/about/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/about/', 'About');" >About</a></li><li
+id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a
+href="http://www.vjsmag.com/staff/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/staff/', 'Staff');" >Staff</a></li><li
+id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a
+href="http://www.vjsmag.com/partners/" onclick="__gaTracker('send', 'event', 'outbound-widget-int', 'http://www.vjsmag.com/partners/', 'Partners');" >Partners</a></li><li
+id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a
+href="http://www.vjstv.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.vjstv.com', 'TV');" >TV</a></li><li
+id="menu-item-3538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3538"><a
+href="http://channel.vjstv.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://channel.vjstv.com', 'Channel');" >Channel</a></li></ul></div></div></div></div></div></div></div> <!--[if lt IE 7]><script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script><script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script><![endif]--><script type="text/javascript" charset="utf-8">var site_url="http://www.vjsmag.com";var rtl="0";wWidth=jQuery(window).width();jQuery(document).ready(function(){jQuery(".social_button").find('a').attr('target','_blank');jQuery("a[rel^='prettyPhoto']").prettyPhoto({social_tools:false,default_width:800,default_height:500,show_title:false});});(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_GB/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script><script type='text/javascript' src='http://www.vjsmag.com/wp-content/themes/flyingnews/js/all.js?ver=3.9.3'></script><script type='text/javascript' src='http://www.vjsmag.com/wp-content/themes/flyingnews/js/app.js?ver=3.9.3'></script><script type='text/javascript'>var wc_add_to_cart_params={"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.vjsmag.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.vjsmag.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};var wc_add_to_cart_params={"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.vjsmag.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.vjsmag.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};</script><script type='text/javascript' src='//www.vjsmag.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.2.10'></script><script type='text/javascript' src='//www.vjsmag.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script><script type='text/javascript'>var woocommerce_params={"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.vjsmag.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};var woocommerce_params={"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.vjsmag.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};</script><script type='text/javascript' src='//www.vjsmag.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.10'></script><script type='text/javascript' src='//www.vjsmag.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1'></script><script type='text/javascript'>var wc_cart_fragments_params={"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};var wc_cart_fragments_params={"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};</script><script type='text/javascript' src='//www.vjsmag.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.10'></script></body></html>

@@ -1,0 +1,4 @@
+#jawpagelayout input[type=radio] {display: none;} 
+#jawpagelayout img {width:80px;}
+#jawpagelayout .nhp-layout-item {float:left;margin-right:6px}
+#jawpagelayout {background-color: red}

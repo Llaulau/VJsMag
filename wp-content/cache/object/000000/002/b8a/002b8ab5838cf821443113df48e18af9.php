@@ -1,0 +1,20 @@
+u�T<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3600";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2014-07-03 22:12:15";s:13:"post_date_gmt";s:19:"2014-07-03 22:12:15";s:12:"post_content";s:2995:"<span style="color: #3366ff;"><span style="color: #3366ff;"><span style="color: #000000;">LED strips are great for making custom installations all over and how ever, what they don't tell you tho is how complicated it can get when connecting a large quantity of them and need to make all those wires fit as one single plug to add it to your DMX-USB converter to make it all work with your software. <span style="color: #3366ff;"><a href="http://vjgorilla.com/"><span style="color: #3366ff;">VJ Gorilla</span></a></span>'s design may have solved this problem with the new 'LIGHTBOMB Active DMX Driver unit', made in Peru and tested on large sets during the Mapping Festival 2014 and other events with <a href="http://www.modul8.ch/"><span style="color: #3366ff;">Modul8</span></a> and <a href="http://www.madmapper.com/"><span style="color: #3366ff;">MadMapper</span></a> - a lot easier to setup and carry instead of a bunch of cables and boxes, it is the next go to unit for large sets on the go. </span></span></span>
+
+<span style="color: #3366ff;"><span style="color: #3366ff;"><span style="color: #000000;">Check out the video bellow for short overview:</span></span></span>
+
+https://vimeo.com/82566728
+
+I<span style="color: #000000;">t has 54 Monocolor Channels with 18 RGB Channels at the front. At the back a red power switch, a Fuse switch right beside the Power In Terminal, one XLR input and one output and one Ethernet input for Network connection which means you can stack them one on top of a other and interconnect/sync them together through a single Artnet box, note: larger Artnet racks exist.</span>
+
+<img class="alignnone" src="http://www.vjsmag.com/wp-content/uploads/2014/07/vjs-magazine-lightbomb-dmx-led-driver-illustration-1024x473.jpg" alt="vjs-magazine-lightbomb-dmx-led-driver-illustration" />
+
+<span style="color: #000000;">Now it does get better, you can order one or more units for US$1200 and it includes one 10meter Ethernet cable, one XLR 5 PIM to 3 PIM cable, one power cable, and one Artnet 1 Universe box worth US$200 (Normally included in the full price, you can also remove it from the package) so once you get the boxes by the post your all set! Just download the <span style="color: #3366ff;"><a href="http://www.vjsmag.com/wp-content/uploads/2014/07/LightBOmb-SMALL.pdf"><span style="color: #3366ff;">LightBomb PDF</span></a> <span style="color: #000000;">for direct orders and contact them through the </span></span><span style="color: #000000;"><span style="color: #3366ff;"><a href="https://www.facebook.com/LightBomb"><span style="color: #3366ff;">LightBomb Facebook page</span></a><span style="color: #000000;"> with your questions.</span></span></span></span>
+
+&nbsp;
+
+<img class="alignnone" src="http://www.vjsmag.com/wp-content/uploads/2014/07/vjs-magazine-lightbomb-dmx-led-driver-back-front.png" alt="vjs-magazine-lightbomb-dmx-led-driver-back-front" />
+
+Example of event installations:
+
+https://vimeo.com/98902795";s:10:"post_title";s:32:"LIGHTBOMB Active DMX Driver Unit";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:32:"lightbomb-active-dmx-driver-unit";s:7:"to_ping";s:0:"";s:6:"pinged";s:53:"https://vimeo.com/82566728
+https://vimeo.com/98902795";s:13:"post_modified";s:19:"2014-11-26 10:46:00";s:17:"post_modified_gmt";s:19:"2014-11-26 10:46:00";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:29:"http://www.vjsmag.com/?p=3600";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"1";}}

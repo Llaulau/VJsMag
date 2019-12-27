@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FlyingNews\n"
+"POT-Creation-Date: 2013-06-26 09:56+0100\n"
+"PO-Revision-Date: 2013-06-26 12:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: J&W Templates <jaw@jawtemplates.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:9
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivi giornalieri: %s"
+
+#: archive.php:11
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivi Mensili: %s"
+
+#: archive.php:13
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivi Annuali: %s"
+
+#: attachment.php:18 single.php:9 woocommerce.php:9
+msgid "Previous"
+msgstr "Precedente"
+
+#: attachment.php:19 single.php:10 woocommerce.php:10
+msgid "Next"
+msgstr "Seguente"
+
+#: attachment.php:32
+msgid "Published"
+msgstr "Pubblicato"
+
+#: attachment.php:32
+msgid " at "
+msgstr "a"
+
+#: attachment.php:32
+msgid " in "
+msgstr "in"
+
+#: attachment.php:43 comments.php:12 comments.php:43
+msgid "Edit"
+msgstr "Modifica"
+
+#: attachment.php:86
+msgid "Pages"
+msgstr "Pagine:"
+
+#: author.php:20 loop-post.php:234
+msgid "About the author"
+msgstr "Riguardo l&#39;autore"
+
+#: comments.php:12
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: comments.php:29
+msgid "Reply"
+msgstr "Rispondi"
+
+#: comments.php:37
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento &egrave; in attesa di moderazione."
+
+#: comments.php:73
+msgid "Please do not load this page directly. Thanks!"
+msgstr "La preghiamo di non caricare questa pagina direttamente. Grazie!"
+
+#: comments.php:79
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Questo post &egrave; protetto da password. Inserisci la password per vedere "
+"i commenti."
+
+#: comments.php:89
+msgid "No Responses to"
+msgstr "Nessuna Risposta a"
+
+#: comments.php:89
+msgid "One Response to"
+msgstr "Una risposta a"
+
+#: comments.php:89
+msgid "Responses to"
+msgstr "Risposte a"
+
+#: comments.php:95
+msgid "&larr; Older comments"
+msgstr "&larr; Commenti precedenti"
+
+#: comments.php:96
+msgid "Newer comments &rarr;"
+msgstr "Commenti recenti &larr;"
+
+#: comments.php:105
+msgid "Comments are closed."
+msgstr "Commenti chiusi."
+
+#: comments.php:119
+msgid "Leave a Reply"
+msgstr "Rispondi"
+
+#: comments.php:120
+msgid "Leave a Reply to"
+msgstr "Rispondi a"
+
+#: comments.php:121
+msgid "Submit Comment"
+msgstr "Invia Commento"
+
+#: comments.php:125 framework/lib/class_render.php:109
+msgid "Comment"
+msgstr "Commento"
+
+#: comments.php:129
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Devi essere<a href=\"%s\">registrato</a> per inserire commenti."
+
+#: comments.php:130
+msgid "Logged in as"
+msgstr "Registrato come"
+
+#: comments.php:130
+msgid "Log out of this account"
+msgstr "Esci da questo account"
+
+#: comments.php:130
+msgid "Log out &raquo;"
+msgstr "Esci &raquo;"
+
+#: comments.php:138 framework/lib/class_render.php:456
+#: framework/shortcodes/contact_form.php:91
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:139 comments.php:146 comments.php:155
+msgid " (required)"
+msgstr "(richiesto)"
+
+#: comments.php:145 framework/shortcodes/contact_form.php:92
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php:151
+msgid "Website"
+msgstr "Sito Web"
+
+#: header-top_cart.php:7 header-top_cart.php:12 header-top_cart.php:17
+#: header-top_cart.php:23 framework/lib/class_render.php:611
+#: framework/lib/class_render.php:616 framework/lib/class_render.php:621
+#: framework/lib/class_render.php:627
+msgid "View your shopping cart"
+msgstr "Vedi il tuo carrello"
+
+#: header-top_cart.php:24 framework/lib/class_render.php:628
+msgid "View cart"
+msgstr "Vedi carrello"
+
+#: header.php:195
+msgid "Go to ..."
+msgstr "Vai a ..."
+
+#: loop-page.php:9 loop-portfolio.php:15
+msgid "Pages:"
+msgstr "Pagine"
+
+#: loop-post.php:122
+msgid "Posted by:"
+msgstr "Scritto da:"
+
+#: loop-post.php:152
+msgid "Next page"
+msgstr "Pagina seguente"
+
+#: loop-post.php:153
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: loop-post.php:194
+msgid "Share!"
+msgstr "Condividi!"
+
+#: loop-products.php:54
+msgid "No products found"
+msgstr "Nessun prodotto trovato"
+
+#: loop-rating_bottom.php:136 loop-rating_bottom.php:153
+#: loop-rating_top.php:126 loop-rating_top.php:145
+msgid "votes"
+msgstr "voti"
+
+#: loop-rating_top.php:124 framework/lib/rating/admin.php:122
+msgid "Your Rating"
+msgstr "Il tuo voto"
+
+#: loop-rating_top.php:124 framework/lib/rating/admin.php:98
+#: framework/lib/rating/admin.php:119
+msgid "Users Ratings"
+msgstr "Voto degli utenti"
+
+#: loop-search.php:4 loop.php:9
+msgid ""
+"We are sorry, no results were found. You can try to find some related posts "
+"using the search function."
+msgstr ""
+"Siamo spiacenti, non &egrave; stato trovato alcun risultato. Ritenta con "
+"altri termini."
+
+#: related-post.php:16
+msgid "Related Posts"
+msgstr "Articoli Correlati"
+
+#: search.php:6
+msgid "Search Results for"
+msgstr "Risultato di ricerca per"
+
+#: searchform.php:7 searchform.php:11 framework/widgets/search.php:41
+#: framework/widgets/search.php:42
+msgid "Search"
+msgstr "Cerca"
+
+#: framework/theme.php:412
+msgid "Primary Navigation"
+msgstr "Navigazione primaria"
+
+#: framework/theme.php:413
+msgid "Footer Navigation"
+msgstr "Navigazione footer"
+
+#: framework/lib/class_breadcrumbs.php:41
+msgid "Home"
+msgstr "Home"
+
+#: framework/lib/class_demoimport.php:839
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Richiesta saltata a causa di menu mancanti"
+
+#: framework/lib/class_elements.php:1501
+msgid "Upload"
+msgstr "Carica"
+
+#: framework/lib/class_facebook.php:20
+msgid "comments"
+msgstr "commenti"
+
+#: framework/lib/class_facebook.php:21 framework/lib/class_render.php:107
+#: framework/lib/class_render.php:111
+msgid "Comments"
+msgstr "Commenti"
+
+#: framework/lib/class_render.php:160
+msgid "Rating:"
+msgstr "Valutazione:"
+
+#: framework/lib/class_render.php:291
+msgid "No additional posts."
+msgstr "Nessun altro post"
+
+#: framework/lib/class_render.php:335 framework/lib/class_render.php:348
+msgid "PREVIOUS"
+msgstr "PRECEDENTI"
+
+#: framework/lib/class_render.php:336 framework/lib/class_render.php:351
+msgid "NEXT"
+msgstr "SUCCESSIVI"
+
+#: framework/lib/class_render.php:368
+msgid " Older posts"
+msgstr "Articoli meno recenti"
+
+#: framework/lib/class_render.php:371 framework/lib/class_render.php:393
+msgid "Newer posts"
+msgstr "Articoli pi&ugrave; recenti"
+
+#: framework/lib/class_render.php:390
+msgid "Older posts"
+msgstr "Articoli meno recenti"
+
+#: framework/lib/class_render.php:401
+msgid "More"
+msgstr "Continua"
+
+#: framework/lib/class_render.php:450
+msgid "Sort:"
+msgstr "Ordina per:"
+
+#: framework/lib/class_render.php:452
+msgid "Price"
+msgstr "Prezzo"
+
+#: framework/lib/class_render.php:453
+msgid "Best sellers"
+msgstr "Pi&ugrave; venduti"
+
+#: framework/lib/class_render.php:455
+msgid "Date"
+msgstr "Data"
+
+#: framework/lib/class_render.php:457
+msgid "Rating"
+msgstr "Valutazione"
+
+#: framework/lib/class_render.php:458
+msgid "Popular"
+msgstr "Popolarit&agrave;"
+
+#: framework/lib/class_render.php:459
+msgid "Category"
+msgstr "Categorie"
+
+#: framework/lib/class_utils.php:311
+msgid "Error: Please fill in the required question."
+msgstr "Errore: Ti preghiamo di rispondere alla domanda."
+
+#: framework/lib/class_utils.php:317
+msgid "Error: Please fill in the correct answer to the question."
+msgstr "Errore: Ti preghiamo di inserire la risposta corretta."
+
+#: framework/lib/menu/nav_menu_walker.php:186
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"La descrizione sar&agrave; visualizzata nel menu se il tema corrente la "
+"supporta."
+
+#: framework/shortcodes/contact_form.php:36
+msgid "Feedback sent..."
+msgstr "Feedback inviato..."
+
+#: framework/shortcodes/contact_form.php:62
+#: framework/shortcodes/contact_form.php:114
+msgid "Incorrectly entered name"
+msgstr "Nome errato"
+
+#: framework/shortcodes/contact_form.php:67
+#: framework/shortcodes/contact_form.php:115
+msgid "Wrong e-mail"
+msgstr "E-mail errata"
+
+#: framework/shortcodes/contact_form.php:71
+#: framework/shortcodes/contact_form.php:116
+msgid "Wrong text format"
+msgstr "Formato testo errato"
+
+#: framework/shortcodes/contact_form.php:76
+#: framework/shortcodes/contact_form.php:117
+msgid "Wrong CAPCHA Code"
+msgstr "Codice CAPCHA errato"
+
+#: framework/shortcodes/contact_form.php:96
+msgid "Message"
+msgstr "Messaggio"
+
+#: framework/shortcodes/contact_form.php:108
+msgid "Send message"
+msgstr "Invia messaggio"
+
+#: framework/shortcodes/portfolios.php:67
+msgid "Filter:"
+msgstr "Filtra:"
+
+#: framework/shortcodes/portfolios.php:70
+msgid "All"
+msgstr "Tutti"
+
+#: framework/widgets/jwLogin.php:50 framework/widgets/jwLogin.php:55
+msgid "Success!"
+msgstr "Operazione riuscita!"
+
+#: framework/widgets/jwLogin.php:51
+msgid "Check your email for the password and then return to log in."
+msgstr "Controlla la tua e-mail, poi torna per effettuare il login."
+
+#: framework/widgets/jwLogin.php:56
+msgid "Check your email to reset your password."
+msgstr "Controlla la tua e-mail per resettare la password."
+
+#: framework/widgets/jwLogin.php:61
+msgid "Have an account?"
+msgstr "Hai un account?"
+
+#: framework/widgets/jwLogin.php:68
+msgid "Username"
+msgstr "Nome"
+
+#: framework/widgets/jwLogin.php:71
+msgid "Password"
+msgstr "Password"
+
+#: framework/widgets/jwLogin.php:76
+msgid " Remember me"
+msgstr "Ricordami"
+
+#: framework/widgets/jwLogin.php:80
+msgid "Login"
+msgstr "Accedi"
+
+#: framework/widgets/jwLogin.php:95
+msgid "Welcome, "
+msgstr "Benvenuto&#47;a,"
+
+#: framework/widgets/jwLogin.php:114
+msgid "You are logged in as "
+msgstr "Sei connesso&#47;a come"
+
+#: framework/widgets/jwLogin.php:116
+msgid "Log out"
+msgstr "Esci"
+
+#: framework/widgets/jwLogin.php:119
+msgid "Admin"
+msgstr "Admin"
+
+#: framework/widgets/jwLogin.php:121
+msgid "Profile"
+msgstr "Profilo"
+
+#: framework/widgets/jwSocial.php:150 framework/widgets/jwSocial.php:152
+#: framework/widgets/jwSocial.php:160
+msgid "followers"
+msgstr "follower"
+
+#: framework/widgets/jwSocial.php:154
+msgid "fans"
+msgstr "fan"
+
+#: framework/widgets/jwSocial.php:156
+msgid "photos"
+msgstr "foto"
+
+#: framework/widgets/jwSocial.php:158
+msgid "suscribers"
+msgstr "seguaci"
+
+#: framework/widgets/search.php:41
+msgid "Search..."
+msgstr "Cerca..."
+
+#: woocommerce/loop/add-to-cart.php:18 woocommerce/loop/add-to-cart.php:42
+#: woocommerce/loop/add-to-cart.php:51
+msgid "Read More"
+msgstr "Leggi tutto"
+
+#: woocommerce/loop/add-to-cart.php:34
+msgid "Select options"
+msgstr "Scegli opzioni"
+
+#: woocommerce/loop/add-to-cart.php:38
+msgid "View options"
+msgstr "Vedi opzioni"
+
+#: woocommerce/loop/add-to-cart.php:47
+msgid "Add to cart"
+msgstr "Aggiungi al carrello"
+
+#: woocommerce/single-product/related.php:39
+msgid "Related Product"
+msgstr "Prodotto Correlato"

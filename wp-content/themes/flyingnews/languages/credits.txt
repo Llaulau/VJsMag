@@ -1,0 +1,13 @@
+/****************************************
+******* FlyingNews language packs *******
+***************s*************************/
+
+
+it_IT language was made for FlyingNews v2.6
+
+Thanks to:
+Bernardino Pezzella
+www.casablog.it
+
+
+/****************************************/
